@@ -15,7 +15,7 @@ public class Amazon_LoginPage {
 	@FindBy (id="continue")
 	WebElement continue_button;
 
-	@FindBy  (xpath = "//input[@id=\"ap_password\"]")
+	@FindBy  (id="ap_password")
 	WebElement EnterPassword;
 	
 	@FindBy (xpath="//input[@id=\"signInSubmit\"]")
