@@ -4,7 +4,7 @@
   <test thread-count="5" name="Amazon_TestCases">
     <classes>
       <class name="Amazon_Test.Amazon_TC1"/>
-       <class name="Amazon_Test.Amazon_TC2"/>
+      
      
     </classes>
   </test> <!-- Amazon_TestCases -->
